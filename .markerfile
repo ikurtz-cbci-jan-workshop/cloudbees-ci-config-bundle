@@ -1,1 +1,1 @@
-# Marker file for Config-bundle-update pipeline template
+#custom marker file, a branch will only be indexed if it has this file
